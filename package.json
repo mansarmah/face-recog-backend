@@ -2,9 +2,9 @@
   "name": "face-recog-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
